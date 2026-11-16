@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Иван Иванов</h1>
+<h1 align="center">Привет 👋, я Владислав Артемович</h1>
 <h3 align="center">Full-Stack Web Developer из России 🇷🇺</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🔭 Сейчас работаю над **интересными веб-проектами**
 - 🌱 Изучаю **Next.js, NestJS, Docker**
 - 💬 Спросите меня о **JavaScript, React, Node.js**
-- 📫 Как со мной связаться: **email@example.com**
+- 📫 Как со мной связаться: **vlados37A@gmail.com**
 - ⚡ Факт: пишу код и пью кофе ☕
 
 ---
@@ -108,7 +108,7 @@
   <a href="https://t.me/ВАШ_ТЕЛЕГРАМ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:vlados37A@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ваш-сайт.ру">
