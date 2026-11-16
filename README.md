@@ -5,15 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+Developer;React+%7C+Node.js+%7C+TypeScript;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+</p>
+
 ---
 
 ### 👨‍💻 Обо мне
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 Сейчас работаю над **интересными веб-проектами**
 - 🌱 Изучаю **Next.js, NestJS, Docker**
 - 💬 Спросите меня о **JavaScript, React, Node.js**
 - 📫 Как со мной связаться: **vlados37A@gmail.com**
 - ⚡ Факт: пишу код и пью кофе ☕
+
+<br clear="right"/>
 
 ---
 
@@ -61,6 +69,9 @@
   <tr>
     <td width="50%">
       <h3 align="center">🛒 E-commerce Platform</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="shop gif" />
+      </p>
       <p align="center">Полноценный интернет-магазин на Next.js + NestJS</p>
       <p align="center">
         <a href="ССЫЛКА">🔗 Демо</a> | <a href="ССЫЛКА">📂 Код</a>
@@ -68,6 +79,9 @@
     </td>
     <td width="50%">
       <h3 align="center">📝 Task Manager</h3>
+      <p align="center">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="task gif" />
+      </p>
       <p align="center">Менеджер задач с real-time обновлениями на React + Socket.io</p>
       <p align="center">
         <a href="ССЫЛКА">🔗 Демо</a> | <a href="ССЫЛКА">📂 Код</a>
@@ -96,6 +110,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave gif" />
+  <br/>
+  <em><b>Всегда рад новым знакомствам!</b> Пишите — отвечу 😉</em>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&label=Просмотры&color=blueviolet&style=for-the-badge" />
